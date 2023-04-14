@@ -5,7 +5,7 @@
 <?import javafx.scene.text.Font?>
 
 <VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/19">
-   <Label alignment="CENTER" prefHeight="49.0" prefWidth="699.0" text="Ilan Sapoznikov" textAlignment="CENTER">
+   <Label alignment="CENTER" prefHeight="17.0" prefWidth="700.0" text="Ilan Sapoznikov" textAlignment="JUSTIFY">
       <font>
          <Font size="24.0" />
       </font>
