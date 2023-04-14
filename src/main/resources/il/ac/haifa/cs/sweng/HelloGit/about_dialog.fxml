@@ -18,5 +18,10 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
+   <Label alignment="CENTER" prefHeight="42.0" prefWidth="701.0" text="Liad Arvatz">
+      <font>
+         <Font size="24.0" />
+      </font>
+   </Label>
 
 </VBox>
