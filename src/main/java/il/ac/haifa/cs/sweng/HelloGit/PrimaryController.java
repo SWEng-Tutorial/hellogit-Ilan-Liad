@@ -39,5 +39,9 @@ public class PrimaryController {
 
 	}
 
+
+	public class LabelIlan {
+
+	}
 }
 
