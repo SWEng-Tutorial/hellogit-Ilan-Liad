@@ -31,4 +31,9 @@ public class PrimaryController {
     	System.exit(0);
     }
 
+
+	public class ClassIlan {
+
+	}
 }
+
